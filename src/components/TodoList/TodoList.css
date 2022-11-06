@@ -1,0 +1,24 @@
+.tabtableHeading{
+    margin-top: 15px;
+    font-size: 13px;
+}
+.tableHeading table {
+    width: 80%;
+    text-align: left;
+    padding: 5px;
+    border-collapse: collapse;
+}
+.tableHeading table tr th{
+    border: 1px solid black;
+    color: aliceblue;
+    background-color: rgb(91, 91, 219);
+}
+.tableHeading table tr td{
+    border: 1px solid black;
+    color: black;
+}
+.add-Activity{
+    float: right;
+    margin-bottom: 100px;
+    cursor: pointer;
+}
